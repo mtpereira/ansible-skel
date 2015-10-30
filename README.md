@@ -16,6 +16,7 @@ Download the latest release tarball at https://github.com/mtpereira/ansible-skel
    variables on `group_vars`.
 - `roles`: Directory where `ansible-galaxy` will place the roles required by
    `requirements.yml`.
+- `files:` Place files for `copy` and `template` tasks here.
 
 ## TODO
 
