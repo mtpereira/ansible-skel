@@ -25,6 +25,6 @@ Download the latest release tarball at https://github.com/mtpereira/ansible-skel
 - [ ] ansible.cfg
 - [ ] Makefile
 - [ ] requirements.yml for roles
-- [ ] requirements.txt for pip/virtualenv
+- [X] requirements.txt for pip/virtualenv
 - [ ] Template all the things!
 
